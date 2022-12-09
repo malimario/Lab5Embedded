@@ -1,1 +1,1 @@
-# Lab5Embedded
+This repository contains code for Lab 5 for the course Embedded Systems. The code is written by Miles Alimario and was done in collaboration with a few students from both sections of the course. The titles of the code are descript of what each code's use is.
